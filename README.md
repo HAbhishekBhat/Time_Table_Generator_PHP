@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Project Logo](TODO: Add project logo)
+
 
 [![GitHub stars](https://img.shields.io/github/stars/HAbhishekBhat/Time_Table_Generator_PHP?style=for-the-badge)](https://github.com/HAbhishekBhat/Time_Table_Generator_PHP/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/HAbhishekBhat/Time_Table_Generator_PHP?style=for-the-badge)](https://github.com/HAbhishekBhat/Time_Table_Generator_PHP/network)
@@ -31,7 +31,7 @@ Based on the provided file names and structure, the application likely features:
 
 ## 🖥️ Screenshots
 
-TODO: Add actual screenshots
+
 
 
 ## 🛠️ Tech Stack
